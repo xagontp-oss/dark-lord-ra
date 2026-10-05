@@ -1,0 +1,10 @@
+platform
+shutil 
+string
+ctypes
+cryptography
+subprocess
+tkinter 
+random 
+telfhk0 
+
